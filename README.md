@@ -184,4 +184,8 @@ If you’re new to this repo, you can:
    - Then look at `core/`, `db/`, `repositories/`, `schemas/`, and `services/` to see how the layers connect.
 3. Run the app locally (see “Getting Started” section) and experiment with the `/health` and auth endpoints as they are implemented.
 
+---
+
+## NOTE: This project is intended primarily for learning and experimentation. Contributions are welcome and appreciated; thank you in advance for any time and effort you invest in improving this repository.
+
 
